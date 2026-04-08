@@ -46,6 +46,7 @@ I am continuously improving my skills through projects, coding practice, and str
 - task organizer
 - calculator
 - expense analyser
+- MoodTune
 I am currently working on building my first set of projects. This section will be updated as I progress.
 
 ---
