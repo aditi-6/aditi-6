@@ -1,56 +1,38 @@
-# Aditi Jha
+# Hi, I'm Aditi 👋
 
-B.Tech CSE (AI & ML) | VIT Bhopal University
-
----
-
-## About Me
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning. I am focused on building a strong foundation in programming, problem-solving, and practical development.
-
-I prefer a hands-on approach to learning by applying concepts through projects and real-world implementations.
+CS undergrad specializing in AI & ML.
+Building a strong foundation through projects, problem-solving, and actual implementation.
 
 ---
 
-## Current Focus
-- Python for problem-solving
-- Data Structures and Algorithms (C++)
-- Exploring Generative AI
-- Web development
+## What I'm Working On
+- C++ and DSA fundamentals
+- Machine Learning concepts and applications
+- Python projects
 
 ---
 
 ## Skills
 
-**Languages:** Python, C++
-**Development:** Frontend Fundamentals, Responsive Design  
-**Tools:** Git, GitHub, VS Code, Google Colab
-
----
-
-## Learning and Growth
-I am continuously improving my skills through projects, coding practice, and structured learning. My goal is to build efficient and practical applications.
-
----
-
-## Goals
-- Build a strong project portfolio  
-- Improve problem-solving skills  
-- Gain internship experience  
-- Develop expertise in AI and ML 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
 ## Projects
-- child health and milestone tracker
-- smart planner
-- task organizer
-- calculator
-- expense analyser
-- MoodTune
-I am currently working on building my first set of projects. This section will be updated as I progress.
+- **Country Guesser** — CLI geography game with real API data, scoring system and pytest tests
+- **MoodTunes** — Python project
+- **Smart Study Planner** — Python
 
 ---
 
-## Contact
-LinkedIn: www.linkedin.com/in/aditi-jha-438065263
-GitHub:  https://github.com/aditi-6
+## Stats
+![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi-6&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/aditi-jha-438065263) • [GitHub](https://github.com/aditi-6)
