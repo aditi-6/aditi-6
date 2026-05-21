@@ -30,8 +30,7 @@ Building a strong foundation through projects, problem-solving, and actual imple
 ---
 
 ## Stats
-![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi-6&show_icons=true&theme=tokyonight&hide_border=true)
-
+![GitHub streak](https://streak-stats.demolab.com?user=aditi-6&theme=tokyonight&hide_border=true)
 ---
 
 ## Connect
